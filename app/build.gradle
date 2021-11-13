@@ -37,7 +37,7 @@ dependencies {
     implementation 'com.google.android.material:material:1.4.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.1'
 
-    implementation project(path: ':CoreOld')
+    implementation project(path: ':CoreOLD')
     implementation project(path: ':Server')
     implementation project(path: ':UIComponents')
 
